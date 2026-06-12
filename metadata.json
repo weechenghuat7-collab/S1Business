@@ -1,0 +1,6 @@
+{
+  "name": "Malaysia Partnership & LLP Guide",
+  "description": "An interactive learning guide and self-test quiz for understanding Malaysian Partnership and Limited Liability Partnership (LLP/PLT) structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
